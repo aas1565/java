@@ -1,0 +1,10 @@
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/Application.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/UserController.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/config/ApplicationConfig.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/config/InitConfig.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/domain/User.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/domain/UserStorage.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/eventlistener/AllEventListener.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/eventlistener/event/AddUserEvent.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/eventlistener/event/DeleteUserEvent.java
+/Users/admin/Desktop/mod2-alekseev/skillbox.mod2/src/main/java/org/example/skillbox_mod2/util/UserParser.java
